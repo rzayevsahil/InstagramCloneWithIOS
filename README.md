@@ -27,21 +27,21 @@ Eğer kullanıcının hesabı yoksa alt kısımda yer alan “Kayıt ol” kısm
 
 Burada kullanıcı kendine yeni bir hesap oluşturabilir. Mevcut alanları(kullanıcı fotoğrafı zorunlu değildir) doldurduktan sonra “Kayıt Ol” butonu aktif hale gelir ve kullanıcı botuna tıklayınca “Kaydınız gerçekleşiyor” tarzında bilgilendirme mesajı alır(Hud yapısı). 
 
-<img src="https://user-images.githubusercontent.com/58303745/186731551-cdb2cbaa-e45c-4181-8fbc-279cb1c5d3a1.png" alt="drawing" width="300"/><img src="https://user-images.githubusercontent.com/58303745/186731555-6d08a29d-f057-44fe-89df-9f175a1b7e41.png" alt="drawing" width="300"/>
-<img src="https://user-images.githubusercontent.com/58303745/186731558-883bde79-1732-41d5-9163-2dbd0bb684e2.png" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/58303745/186731551-cdb2cbaa-e45c-4181-8fbc-279cb1c5d3a1.png" alt="drawing" width="250"/><img src="https://user-images.githubusercontent.com/58303745/186731555-6d08a29d-f057-44fe-89df-9f175a1b7e41.png" alt="drawing" width="250"/>
+<img src="https://user-images.githubusercontent.com/58303745/186731558-883bde79-1732-41d5-9163-2dbd0bb684e2.png" alt="drawing" width="250"/>
 
 ### **Ana sayfa :** 
 
 Burada kullanıcının zamana göre sıralanmış kendi ve takip ettiği kişilerin paylaşımları listeleniyor. Her paylaşımın içinde paylaşım yapan kullanıcının kullanıcı ismi, profil resmi, paylaşımı, yorumu, paylaşım beğenme sayısı ve ne kadar süre önce paylaştığı ile ilgili bilgiler yer alıyor. 
 
-<img src="https://user-images.githubusercontent.com/58303745/186731561-93d5127d-3976-4dd6-9674-0f721ebbaeb9.png" alt="drawing" width="300"/><img src="https://user-images.githubusercontent.com/58303745/186731566-2af3555a-8ee8-499c-b23b-b094ab932787.png" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/58303745/186731561-93d5127d-3976-4dd6-9674-0f721ebbaeb9.png" alt="drawing" width="250"/><img src="https://user-images.githubusercontent.com/58303745/186731566-2af3555a-8ee8-499c-b23b-b094ab932787.png" alt="drawing" width="250"/>
 
 ### **Resim paylaşma sayfası :** 
 
 Burada kullanıcı ilk defa paylaşım yapıyorsa telefonundaki resimleri erişmek için izin isteme ile ilgili bilgilendirme mesajı alıyor. Eğer telefonda fazla resim varsa ekranı aşağıya kaydırıp herhangi bir resme tıkladığı anda otomatik olarak kullanıcını paylaşım ekranı olan üst tarafa doğru götürür. Sonra kullanıcı “Sonraki” diyerek paylaşıma yorum yazmak için bir sonraki ekrana yönlendirilir. 
 
-<img src="https://user-images.githubusercontent.com/58303745/186731567-85ec9715-adc1-44bd-9f02-1cbe7c8ba6b5.png" alt="drawing" width="300"/><img src="https://user-images.githubusercontent.com/58303745/186731568-13d1e44c-7d6a-409e-83c2-77235a82fed8.png" alt="drawing" width="300"/>
-<img src="https://user-images.githubusercontent.com/58303745/186731569-9e458b4e-49b0-4a0f-bfff-2de825e69384.png" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/58303745/186731567-85ec9715-adc1-44bd-9f02-1cbe7c8ba6b5.png" alt="drawing" width="250"/><img src="https://user-images.githubusercontent.com/58303745/186731568-13d1e44c-7d6a-409e-83c2-77235a82fed8.png" alt="drawing" width="250"/>
+<img src="https://user-images.githubusercontent.com/58303745/186731569-9e458b4e-49b0-4a0f-bfff-2de825e69384.png" alt="drawing" width="250"/>
 
 ### **Kullanıcı arama sayfası :** 
 
@@ -62,7 +62,7 @@ Burada kullanıcı diğer takip etmek istediği profil hesaplarını arayarak ta
 - *KullanıcıProfil* – Kullanıcı profili burada yer alıyor 
 - *YazdigimUzantilar* – Bazı gerekli olan extensionlar burada yer alıyor. 
 
-<img src="https://user-images.githubusercontent.com/58303745/186731581-2e041a16-7bae-4263-b218-31849a2e67d0.png" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/58303745/186731581-2e041a16-7bae-4263-b218-31849a2e67d0.png" alt="drawing" width="250"/>
 
 Genel olarak tasarımı kod yapısı üzerinden gerçekleştirdim. 
 
