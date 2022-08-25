@@ -49,8 +49,8 @@ Burada kullanıcı diğer takip etmek istediği profil hesaplarını arayarak ta
 
 “Takip et” butonuna tıkladığında Hem buton rengi değişir, hem de buna uygun olarak “Takipten Çıkar” butonu mevcut olur ve kullanıcının takip ettiği kişinin takipçi sayısı da senkronize bir şekilde artar.   
 
-<img src="https://user-images.githubusercontent.com/58303745/186731570-1b623ebb-fe81-44d4-9a84-845bbbfed984.png" alt="drawing" width="300"/><img src="https://user-images.githubusercontent.com/58303745/186731574-ff939cac-b597-49d6-b947-a7e85dc431a0.png" alt="drawing" width="300"/>
-<img src="https://user-images.githubusercontent.com/58303745/186731577-45f0d2cb-599a-4c9d-bbaf-2641c165e58b.png" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/58303745/186731570-1b623ebb-fe81-44d4-9a84-845bbbfed984.png" alt="drawing" width="250"/><img src="https://user-images.githubusercontent.com/58303745/186731574-ff939cac-b597-49d6-b947-a7e85dc431a0.png" alt="drawing" width="250"/>
+<img src="https://user-images.githubusercontent.com/58303745/186731577-45f0d2cb-599a-4c9d-bbaf-2641c165e58b.png" alt="drawing" width="250"/>
 
 ### **Kod Yapısı** 
 
