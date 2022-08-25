@@ -20,8 +20,8 @@ Kullanıcı mail ve şifresini yazmadan “Giriş Yap” butonu aktif olmuyor. B
 
 Eğer kullanıcının hesabı yoksa alt kısımda yer alan “Kayıt ol” kısmından kullanıcı hesabı oluşturabilir. 
 
-<img src="https://user-images.githubusercontent.com/58303745/186731544-b0212734-0fee-44d5-b45e-690ec1da2cfd.png" alt="drawing" width="300"/><img src="https://user-images.githubusercontent.com/58303745/186731545-580fa39e-9c53-4c34-8f08-bde9b56c78ca.png" alt="drawing" width="300"/>
-<img src="https://user-images.githubusercontent.com/58303745/186731546-f99f8c7d-ad45-4498-9046-97e59224915c.png" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/58303745/186731544-b0212734-0fee-44d5-b45e-690ec1da2cfd.png" alt="drawing" width="250"/><img src="https://user-images.githubusercontent.com/58303745/186731545-580fa39e-9c53-4c34-8f08-bde9b56c78ca.png" alt="drawing" width="250"/>
+<img src="https://user-images.githubusercontent.com/58303745/186731546-f99f8c7d-ad45-4498-9046-97e59224915c.png" alt="drawing" width="250"/>
 
 ### **Kayıt Ol :** 
 
